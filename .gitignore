@@ -1,0 +1,10 @@
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# logs
+*.log
+logs/
+*.log.*
